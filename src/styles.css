@@ -1,13 +1,18 @@
 body.index {
   background-color: lightgoldenrodyellow;
+  text-align: center;
 }
 
 body.contact {
-      background-color: lightgoldenrodyellow;
-
+  background-color: lightgoldenrodyellow;
+  text-align: center;
 }
 
 body.photo {
-      background-color: lightgoldenrodyellow;
+  background-color: lightgoldenrodyellow;
+  text-align: center;
+}
 
+.cro {
+  border-radius: 5px;
 }
